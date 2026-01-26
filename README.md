@@ -5,7 +5,7 @@ This project is an end-to-end **Business Intelligence dashboard** built to analy
 The dashboard enables stakeholders to monitor key KPIs, identify trends, and make data-driven business decisions.
 
 🔗 **Live Dashboard Link:**  
-👉 https://app.powerbi.com/view?r=eyJrIjoiMzQ1MTZjNTktNDZiNy00NWMwLThmN2QtMGIxMmYxMDYxOTJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+👉 <a href= "https://app.powerbi.com/view?r=eyJrIjoiMzQ1MTZjNTktNDZiNy00NWMwLThmN2QtMGIxMmYxMDYxOTJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"
 
 ---
 
