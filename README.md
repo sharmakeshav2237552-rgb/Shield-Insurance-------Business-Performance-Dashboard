@@ -74,10 +74,12 @@ A visual representation of the data model used to build the dashboard.
 ---
 
 ## 🔍 Key Insights
-- Offline Agent channel contributes the highest revenue share  
-- Age group **31–40** generates maximum revenue and customers  
-- Metro cities like **Delhi NCR and Mumbai** dominate sales  
-- Certain age groups show higher expected settlement exposure  
+- Offline Agent channel contributes the highest revenue share.
+- Digital channels contribute ~30% and show strong stability.
+- Age group **31–40** generates maximum revenue and customers. 
+- Metro cities like **Delhi NCR and Mumbai** dominate sales.
+- 65+ customers contribute high premiums but also higher settlement exposure.
+- March 2023 was the strongest month for both revenue and customer acquisition.
 
 ---
 
@@ -85,7 +87,7 @@ A visual representation of the data model used to build the dashboard.
 - Strengthen the Offline Agent channel while optimizing operational costs  
 - Focus targeted marketing on high-value age groups (31–40, 41–50)  
 - Improve digital adoption among younger customers  
-- Use age-based insights to optimize policy offerings and risk planning  
+- Improve risk management for 65+ high-value customers. 
 
 ---
 
@@ -93,7 +95,9 @@ A visual representation of the data model used to build the dashboard.
 - **Power BI** – Dashboarding and visualization  
 - **DAX** – Measures and calculations  
 - **Power Query (M)** – Data transformation  
-- **Excel / CSV** – Data source  
+- **Excel / CSV** – Data source
+- **Canva** - Presentation
+- **OBS Studio** -  Recording
 
 ---
 
@@ -116,4 +120,5 @@ A visual representation of the data model used to build the dashboard.
 ## 📬 Feedback
 If you have suggestions or feedback, feel free to raise an issue or connect with me on LinkedIn.
 
-⭐ If you find this project useful, don’t forget to **star the repository**!
+## Linkedin
+<a href = "https://www.linkedin.com/in/keshavasharma27/"> Click here to see my Linkedin Profile></a>
