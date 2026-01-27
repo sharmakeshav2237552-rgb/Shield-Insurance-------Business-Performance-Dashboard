@@ -98,8 +98,7 @@ A visual representation of the data model used to build the dashboard.
 - **DAX** – Measures and calculations  
 - **Power Query (M)** – Data transformation  
 - **Excel / CSV** – Data source
-- **Canva** - Presentation
-- **OBS Studio** -  Recording
+
 
 ---
 
