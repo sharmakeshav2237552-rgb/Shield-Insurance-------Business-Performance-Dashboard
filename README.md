@@ -121,4 +121,4 @@ A visual representation of the data model used to build the dashboard.
 If you have suggestions or feedback, feel free to raise an issue or connect with me on LinkedIn.
 
 ## Linkedin
-<a href = "https://www.linkedin.com/in/keshavasharma27/"> Click here to see my Linkedin Profile></a>
+<a href = "https://www.linkedin.com/in/keshavasharma27/"> Click here to see my Linkedin Profile</a>
