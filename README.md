@@ -7,6 +7,8 @@ The dashboard enables stakeholders to monitor key KPIs, identify trends, and mak
 🔗 **Live Dashboard Link:**  
 👉 <a href= "https://app.powerbi.com/view?r=eyJrIjoiMzQ1MTZjNTktNDZiNy00NWMwLThmN2QtMGIxMmYxMDYxOTJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Click here to view the Power Bi Dashboard</a>
 
+👉 Cllick here to see video presentation
+
 ---
 
 ## 🎯 Business Objectives
