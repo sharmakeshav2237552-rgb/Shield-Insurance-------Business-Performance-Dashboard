@@ -65,7 +65,7 @@ Provides a high-level summary of business performance with navigation to detaile
 ---
 
 ## 🧩 Data Model
-The data model follows a **star schema** design to improve performance and simplify analysis.
+A visual representation of the data model used to build the dashboard.
 
 📷 **Data Model Screenshot:**  
 <img width="1628" height="855" alt="image" src="https://github.com/user-attachments/assets/a112bb8b-6e94-4e59-a5c5-8885b79569c2" />
